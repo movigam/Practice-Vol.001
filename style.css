@@ -20,7 +20,7 @@ a {
 header {
     width: 100%;
     height: 100vh;
-    background: url("https://github.com/movigam/Practice-Vol.001/blob/main/header.png?raw=true") no-repeat center center/ cover;
+    background: url("https://raw.githubusercontent.com/movigam/Practice-Vol.001/main/header.png") no-repeat center center/ cover;
     position: relative;
 }
 
